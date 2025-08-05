@@ -11,7 +11,7 @@ Tkinter
 SQLite3
 # Installation
 # Clone the Repository:
-git clone
+git clone https://github.com/yasminemarsou/Flight_Reservation_System.git
 cd flight-reservation-app
 # Install Requirements:
 pip install -r requirements.txt
